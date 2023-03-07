@@ -1,2 +1,2 @@
 # HTML-CSS
- Curso de html5 e css3
+ Small project of a android curiosities, about creators, etc
